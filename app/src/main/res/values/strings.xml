@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Perpetual Calendar</string>
+    <string name="dni_robocze">Dni Robocze</string>
+    <string name="nazwy">Nazwy</string>
+    <string name="daty">Daty</string>
+    <string name="niedziele">Niedziele</string>
+    <string name="backText">Cofnij</string>
+    <string name="begin_date">Data początkowa</string>
+    <string name="end_date">Data końcowa</string>
+</resources>
